@@ -2,3 +2,8 @@ function imgchange1(){document.getElementById('perfume').src='./image/replica-la
 function imgchange2(){document.getElementById('perfume').src='./image/Hermes-ナイルの庭.jpg';}
 function imgchange3(){document.getElementById('perfume').src='./image/Diptyque-オードトワレ-フィロシコス.jpg';}
 function imgchange4(){document.getElementById('perfume').src='./image/CLEAN-クラシック-アルティメイト-オードパルファム.jpg';}
+
+function txtchange1(){document.getElementById('perfume').innerHTML='replica-lazy-sunday-morning';}
+function txtchange2(){document.getElementById('perfume').innerHTML='Hermes-ナイルの庭';}
+function txtchange3(){document.getElementById('perfume').innerHTML='Diptyque-オードトワレ-フィロシコス';}
+function txtchange4(){document.getElementById('perfume').innerHTML='CLEAN-クラシック-アルティメイト-オードパルファム';}
